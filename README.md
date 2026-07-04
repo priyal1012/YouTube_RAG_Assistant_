@@ -3,7 +3,7 @@
 An AI-powered Retrieval-Augmented Generation (RAG) application that enables users to chat with any YouTube video using its transcript. The application extracts the transcript from a YouTube video, converts it into semantic embeddings, stores them in a FAISS vector database, and answers user questions using Google's Gemini Large Language Model.
 
 
-## 🚀 Feature
+## 🚀 Features
 
 * 📺 Extract transcript from any public YouTube video
 * ✂️ Split transcripts into semantic chunks
